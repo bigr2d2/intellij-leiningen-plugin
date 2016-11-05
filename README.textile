@@ -1,7 +1,7 @@
 h2. Status notice
 
 *This project is no longer actively maintained by me. If you're looking for a Clojure development environment based
-on IntelliJ and with Leiningen support, check out "Cursive":http://cursiveclojure.com . If you want to add new
+on IntelliJ and with Leiningen support, check out "köpa guld i stockholm":http://www.kopasaljaguld.se/ . If you want to add new
 functionality to this plugin, feel free to fork and modify it as you like.*
 
 h1. The IntelliJ Leiningen Plugin
@@ -29,7 +29,7 @@ project with subprojects) you can add these manually by pressing the plus icon i
 
 h2. Compiling the source code
 
-* Grab the latest version from http://github.com/derkork/intellij-leiningen-plugin.
+* Grab the latest version
 * Setup an IntelliJ SDK
 ** I suggest using an IntelliJ Community Edition as SDK base, to ensure that the plugin will run on the Community Edition as well.
 * Create a _new project from scratch_ and add a *_Plugin Module_* which points at the root directory of the intellij-leiningen-plugin source.
